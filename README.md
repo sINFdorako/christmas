@@ -15,6 +15,7 @@ So einfach geht's:
 
 Für dieses kleine Projekt wurde eine light Clean Architecture bentutzt
 
+``
 /feature
       /data
           /repositories
@@ -26,6 +27,7 @@ Für dieses kleine Projekt wurde eine light Clean Architecture bentutzt
         /pages
         /widgets
         /providers
+``
 
 
 ## Externe Packete
